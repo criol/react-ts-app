@@ -1,0 +1,23 @@
+{
+  "name": "react-ts-app",
+  "version": "0.0.1",
+  "description": "cli tool for creating react app with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "bin":{
+    "react-ts-app": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criol/react-ts-app.git"
+  },
+  "keywords": [],
+  "author": "Gobedashvili Bagrat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criol/react-ts-app/issues"
+  },
+  "homepage": "https://github.com/criol/react-ts-app#readme"
+}
